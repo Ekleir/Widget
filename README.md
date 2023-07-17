@@ -1,2 +1,2 @@
 # Widget
- work with Tkinter
+Работа с Tkinter, виджет по мониторингу загруженности CPU
